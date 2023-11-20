@@ -1,6 +1,6 @@
 <h2 align="center"> ¡Hola! Soy Saray MAgallanes ✨. </h2>
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+
 </p>
 <h2 align="center"> Soy programadora Full Stack💻! </h2>
   
