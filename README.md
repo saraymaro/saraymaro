@@ -1,7 +1,7 @@
 <h2 align="center"> ¡Hola! Soy Saray Magallanes ✨. </h2>
 <p align="center">
   <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="![banner](https://github.com/saraymaro/saraymaro/assets/91317261/c1b76ea2-b83d-478a-a68c-3c808e44ea6f)" alt="my banner"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/saraymaro/saraymaro/assets/91317261/c1b76ea2-b83d-478a-a68c-3c808e44ea6f" alt="my banner"></a>
 
 </p>
 </p>
