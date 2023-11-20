@@ -1,6 +1,6 @@
 <h2 align="center"> ¡Hola! Soy Saray Magallanes ✨. </h2>
 <p align="center">
-
+![banner](https://github.com/saraymaro/saraymaro/assets/91317261/c1b76ea2-b83d-478a-a68c-3c808e44ea6f)
 </p>
 <h4 align="center"> Soy programadora Full Stack💻! </h4>
   
@@ -21,6 +21,7 @@ Si tienes alguna duda o quieres contactar conmigo, te dejo aqui mi contacto. �
 
 ## 💼 Skills   
 
+![skills](https://github.com/saraymaro/saraymaro/assets/91317261/ec4655ae-e092-4295-9d98-fd56925f8fe2)
 
 ## 🗣️ Soft Skills
  Trabajo en equipo | Compromiso | Empatía | Perseverancia | Pasión | Curiosidad 
