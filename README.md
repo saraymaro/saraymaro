@@ -1,8 +1,8 @@
-<h2 align="center"> ¡Hola! Soy Saray MAgallanes ✨. </h2>
+<h2 align="center"> ¡Hola! Soy Saray Magallanes ✨. </h2>
 <p align="center">
 
 </p>
-<h2 align="center"> Soy programadora Full Stack💻! </h2>
+<h4 align="center"> Soy programadora Full Stack💻! </h4>
   
 ## 📋 Sobre mi
 A lo largo de mi trayectoria profesional destacos ramas importantes en vida, una es en el ámbito de la educación, ya que estoy graduada en psicología y la otra en el ámbito de la programación, graduada en desarrollo de aplicaciones multiplataforma y realizando un bootcamp de java.
