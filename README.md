@@ -5,7 +5,7 @@
 
 </p>
 </p>
-<h4 align="center"> Soy programadora Full Stack💻! </h4>
+<h3 align="center"> Soy programadora Full Stack💻! </h3>
   
 ## 📋 Sobre mi
 A lo largo de mi trayectoria profesional destacos ramas importantes en vida, una es en el ámbito de la educación, ya que estoy graduada en psicología y la otra en el ámbito de la programación, graduada en desarrollo de aplicaciones multiplataforma y realizando un bootcamp de java.
