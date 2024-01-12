@@ -23,8 +23,7 @@ Si tienes alguna duda o quieres contactar conmigo, te dejo aqui mi contacto. �
 </p>
 
 ## 💼 Skills   
-
-![skills](https://github.com/saraymaro/saraymaro/assets/91317261/ec4655ae-e092-4295-9d98-fd56925f8fe2)
+![skills2](https://github.com/saraymaro/saraymaro/assets/91317261/874c61aa-816a-4c3c-8600-30269a85393f)
 
 ## 🗣️ Soft Skills
  Trabajo en equipo | Compromiso | Empatía | Perseverancia | Pasión | Curiosidad 
